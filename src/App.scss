@@ -1,0 +1,21 @@
+ $primary-color: #ffd700;
+ 
+ @import 'animate.css';
+
+ @font-face{
+  font-family: 'Pacifico';
+  src: url('./assets/fonts//Pacifico-Regular.ttf') format('ttf');
+ }
+
+ @font-face{
+  font-family: 'Helvetica neue';
+  src: url('./assets/fonts/Helvetica\ Neue\ W01\ 77\ Bd\ Cn\ Obl.ttf') format('ttf');
+ }
+
+ @font-face{
+  font-family: 'Source Sans Pro';
+  src: url('./assets/fonts/SourceSansPro-Regular.ttf') format('ttf');
+ }
+ input, textarea {
+  font-family: 'Helvetica neue';
+ }
